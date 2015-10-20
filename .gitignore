@@ -3,3 +3,6 @@
 settings.py
 
 *.json
+
+*.idea
+
